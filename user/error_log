@@ -1,0 +1,38 @@
+[18-Nov-2020 23:00:44 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[19-Nov-2020 22:21:55 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[20-Nov-2020 00:48:21 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[20-Nov-2020 03:41:02 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[20-Nov-2020 03:41:02 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[20-Nov-2020 12:55:06 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[20-Nov-2020 21:29:56 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[21-Nov-2020 15:00:00 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[21-Nov-2020 19:37:15 Australia/Sydney] PHP Parse error:  syntax error, unexpected '=' in /home/classmat/mlm.azwokshopping.com/Classes/user/User.php on line 608
+[21-Nov-2020 19:37:16 Australia/Sydney] PHP Parse error:  syntax error, unexpected '=' in /home/classmat/mlm.azwokshopping.com/Classes/user/User.php on line 608
+[21-Nov-2020 20:13:15 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[21-Nov-2020 21:54:56 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[21-Nov-2020 22:07:16 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[21-Nov-2020 22:10:58 Australia/Sydney] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[24-Nov-2020 02:50:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[26-Nov-2020 14:09:05 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[26-Nov-2020 14:10:43 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[28-Nov-2020 04:33:54 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[05-Dec-2020 21:27:35 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
+[16-Dec-2020 15:41:12 Australia/Sydney] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/classmat/mlm.azwokshopping.com/user/dashboard.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/classmat/mlm.azwokshopping.com/user/dashboard.php on line 71
